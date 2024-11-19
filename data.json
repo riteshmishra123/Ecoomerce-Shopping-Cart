@@ -1,0 +1,58 @@
+{
+  "payments": [
+    {
+      "id": "1",
+      "cardHolderName": "Ritesh",
+      "cardNumber": "121214124112",
+      "cvv": "807",
+      "expirationDate": "2025",
+      "paymentMethod": "card",
+      "postalCode": "821109"
+    },
+    {
+      "id": "96ef",
+      "cardHolderName": "Ritesh",
+      "cardNumber": "123456789",
+      "cvv": "807",
+      "expirationDate": "2025",
+      "paymentMethod": "card",
+      "postalCode": "12345"
+    },
+    {
+      "id": "10db",
+      "cardHolderName": "Pushpa",
+      "cardNumber": "555555555555",
+      "cvv": "101",
+      "expirationDate": "2025",
+      "paymentMethod": "card",
+      "postalCode": "1111111"
+    },
+    {
+      "id": "e39b",
+      "cardHolderName": "Pushpa",
+      "cardNumber": "555555555555",
+      "cvv": "101",
+      "expirationDate": "2025",
+      "paymentMethod": "card",
+      "postalCode": "1111111"
+    },
+    {
+      "id": "14a9",
+      "cardHolderName": "Ritesh",
+      "cardNumber": "1111111111111",
+      "cvv": "111",
+      "expirationDate": "2025",
+      "paymentMethod": "card",
+      "postalCode": "1111"
+    },
+    {
+      "id": "c6ef",
+      "cardHolderName": "Manish",
+      "cardNumber": "8888888888888",
+      "cvv": "101",
+      "expirationDate": "2030",
+      "paymentMethod": "card",
+      "postalCode": "821109"
+    }
+  ]
+}
